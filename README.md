@@ -4,13 +4,13 @@ Aplicación web para gestionar beneficiarios con operaciones CRUD completas. Des
 
 ## Características
 
- ✅ Listado de beneficiarios con filtros y paginación
- ✅ Crear, editar y eliminar beneficiarios
- ✅ Validación de formularios con Zod
- ✅ Gestión de tipos de documentos de identidad
- ✅ Interfaz moderna con Tailwind CSS
- ✅ Manejo de estado con React Query
- ✅ TypeScript strict mode habilitado
+ - ✅ Listado de beneficiarios con filtros y paginación
+ - ✅ Crear, editar y eliminar beneficiarios
+ - ✅ Validación de formularios con Zod
+ - ✅ Gestión de tipos de documentos de identidad
+ - ✅ Interfaz moderna con Tailwind CSS
+ - ✅ Manejo de estado con React Query
+ - ✅ TypeScript strict mode habilitado
 
 ## Requisitos previos
 
